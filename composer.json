@@ -46,7 +46,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Schonhose\\Lavacharts\\Tests\\": "tests/"
+            "Khill\\Lavacharts\\Tests\\": "tests/"
         }
     },
     "scripts": {
@@ -62,10 +62,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Schonhose\\Lavacharts\\Laravel\\LavachartsServiceProvider"
+                "Khill\\Lavacharts\\Laravel\\LavachartsServiceProvider"
             ],
             "aliases": {
-                "Lava": "Schonhose\\Lavacharts\\Laravel\\LavachartsFacade"
+                "Lava": "Khill\\Lavacharts\\Laravel\\LavachartsFacade"
             }
         }
     },
