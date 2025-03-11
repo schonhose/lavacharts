@@ -1,5 +1,5 @@
 {
-    "name": "schonhose/lavacharts",
+    "name": "khill/lavacharts",
     "description": "PHP wrapper library for the Google Chart API",
     "keywords": [
         "charts",
@@ -30,7 +30,7 @@
     },
     "require": {
         "php": ">=5.4.0",
-        "nesbot/carbon": ">=3.0"
+        "nesbot/carbon": ">=1.14 <3.0"
     },
     "autoload": {
         "psr-4": {
