@@ -1,5 +1,5 @@
 {
-    "name": "khill/lavacharts",
+    "name": "schonhose/lavacharts",
     "description": "PHP wrapper library for the Google Chart API",
     "keywords": [
         "charts",
